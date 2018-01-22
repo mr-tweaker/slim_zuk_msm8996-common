@@ -19,7 +19,7 @@
 # disable makefiles (the proper mechanism to control what gets
 # included in a build is to use PRODUCT_PACKAGES in a product
 # definition file).
-# 
+#
 
 # Audio
 PRODUCT_PACKAGES += \
